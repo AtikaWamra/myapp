@@ -4,17 +4,17 @@
  
 
 
-Tables de matières....................1 
+Tables de matières......1 
 
-Introduction .........................2
+Introduction ...........2
 
-Etude des besoins ....................3
+Etude des besoins ......3
 
-Analyse et Réalisation................4
+Analyse et Réalisation..4
 
-Conclusion ...........................5
+Conclusion .............5
 
-Equipe de travail.....................6
+Equipe de travail.......6
 
 
 
@@ -94,6 +94,9 @@ un point sur nos tâches régulièrement. Nous avons appris à gérer un projet 
  *********************************************************************************************************************************************************************
 
 Equipe de travail :   (smi4 g3b)
+
 Mohammed Rmioui 
+
 Atika Wamra
+
                                                                                      
