@@ -4,17 +4,17 @@
  
 
 
-Tables de matières......1 
+1.Tables de matières 
 
-Introduction............2
+2.Introduction
 
-Etude des besoins.......3
+3.Etude des besoins
 
-Analyse et Réalisation..4
+4.Analyse et Réalisation
 
-Conclusion..............5
+5.Conclusion
 
-Equipe de travail.......6
+6.Equipe de travail
 
 
 
