@@ -6,13 +6,13 @@
 
 Tables de matières......1 
 
-Introduction ...........2
+Introduction............2
 
-Etude des besoins ......3
+Etude des besoins.......3
 
 Analyse et Réalisation..4
 
-Conclusion .............5
+Conclusion..............5
 
 Equipe de travail.......6
 
