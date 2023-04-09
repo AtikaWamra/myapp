@@ -87,15 +87,10 @@ REMARQUE : Prière de créer les trois fichiers sur votre pc pour assurer le bon
 
 Conclusion :
 
-Au final, nous avons beaucoup travaillé pendant les séances et hors des séances. Nous avons compris qu’il est important d’évaluer les connaissances de chacun, et de faire
-un point sur nos tâches régulièrement. Nous avons appris à gérer un projet et à faire face aux difficultés ensemble.  
+Au final, nous avons beaucoup travaillé pendant les séances et hors des séances. Nous avons compris qu’il est important d’évaluer les connaissances de chacun, et de faire un point sur nos tâches régulièrement. Nous avons appris à gérer un projet et à faire face aux difficultés ensemble.  
 
 
  *********************************************************************************************************************************************************************
-
-Equipe de travail :   (smi4 g3b)
-
-Mohammed Rmioui 
 
 Atika Wamra
 
